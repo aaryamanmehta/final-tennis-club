@@ -1,0 +1,20 @@
+version: '3.9'
+services: 
+  client:
+    build: client
+    ports:
+      - "3000:3000"
+  user-service:
+    build: user-service
+    ports:
+      - "6001:6001"
+  tournament-service:
+    build: tournament-service
+    ports:
+      - "6002:6002"
+  notification-service:
+    build: notification-service
+    ports:
+      - "6003:6003"
+  event-bus:
+    build: event-bus

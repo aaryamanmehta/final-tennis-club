@@ -1,0 +1,43 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "contributors": [],
+  "scripts": {
+    "docker-start": "pm2-runtime start index.js --name notification-service -i 5",
+    "start": "pm2 start index.js --name notification-service -i 5",
+    "stop": "pm2 delete notification-service",
+    "dev": "nodemon index.js",
+    "test": ""
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.9.7",
+    "nodemon": "^3.0.2",
+    "winston": "^3.11.0"
+  }
+}
