@@ -17,7 +17,10 @@ The Home page provides general club information, while the Membership page detai
 ### Membership Page
 ![Alt text](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.15.39%20AM.png)
 ### League Page
-![Alt text]()
+E.g. 3.5 League
+![Alt text](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.28.27%20AM.png)
+E.g. 4.5 League
+![Alt text](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.28.07%20AM.png)
 ### Players Page
 ![Alt text](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.16.58%20AM.png)
 ### Profile Page
