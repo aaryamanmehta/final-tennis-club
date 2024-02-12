@@ -10,3 +10,4 @@ The website utilizes Svelte for dynamic UI and Express.js for microservices API,
 The Home page provides general club information, while the Membership page details membership benefits and payment information. The League page allows users to sign up for tournaments based on their ranking, with email notifications upon successful registration. The Players page lists all registered players, allowing users to view details and contact others for casual matches. The Profile page enables users to edit their information, with email notifications for updates. The Login page facilitates user authentication, albeit without passwords for the project's scope.
 
 ## Screenshots
+![Alt text](/screenshots/Screenshot 2024-02-12 at 8.15.02 AM.png?raw=true "Optional Title")
