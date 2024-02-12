@@ -10,4 +10,17 @@ The website utilizes Svelte for dynamic UI and Express.js for microservices API,
 The Home page provides general club information, while the Membership page details membership benefits and payment information. The League page allows users to sign up for tournaments based on their ranking, with email notifications upon successful registration. The Players page lists all registered players, allowing users to view details and contact others for casual matches. The Profile page enables users to edit their information, with email notifications for updates. The Login page facilitates user authentication, albeit without passwords for the project's scope.
 
 ## Screenshots
-![Alt text]([screenshots/Screenshot 2024-02-12 at 8.15.02 AM.png?raw=true](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.15.02%20AM.png)https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.15.02%20AM.png "Optional Title")
+### Landing Page
+![Alt text](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.15.02%20AM.png)
+### Home Page
+![Alt text](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.15.22%20AM.png)
+### Membership Page
+![Alt text](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.15.39%20AM.png)
+### League Page
+![Alt text]()
+### Players Page
+![Alt text](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.16.58%20AM.png)
+### Profile Page
+![Alt text](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.16.41%20AM.png)
+### Login Page
+![Alt text](https://github.com/aaryamanmehta/final-tennis-club/blob/main/screenshots/Screenshot%202024-02-12%20at%208.16.07%20AM.png)
